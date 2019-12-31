@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <img src="./images/toytree1.jpg" width="320" height="150">
     <div class="content">
         <h1>Login</h1>
         <form action="managing.php" method="POST">
