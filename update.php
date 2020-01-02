@@ -58,7 +58,7 @@ if (isset($_POST['update'])) {
 
 <body>
     <div class="content">
-        <h1>Update Information</h1>
+        <h1>Update Information of Products</h1>
         <form action="/update.php" method="POST" enctype="multipart/form-data">
 			<?php
 			$qry = "SELECT * FROM product WHERE productid = '$id'";
